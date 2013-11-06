@@ -1,5 +1,5 @@
 Package.describe({
-    summary: 'Exposes winston.transports.MongoDB (https://github.com/indexzero/winston-mongodb)'
+    summary: 'Exposes MongoDB (https://github.com/indexzero/winston-mongodb)'
 });
 
 Npm.depends({
